@@ -10,7 +10,7 @@ Below is the demonstration on how the Openpose works. Quadro RTX 5000 graphic ca
 * CUDA version: 10.1
 * CuDNN version: 7.6.5
 
-For more information on the Ubuntu Prerequisites, here is the [link](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/1_prerequisites.md) for references.  
+For more information on the Ubuntu Prerequisites, here is the [readme](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/1_prerequisites.md) for your references.  
 
 ## Installation
 
@@ -22,7 +22,7 @@ Then, in your terminal, git clone this repo using the below command:
 git clone https://github.com/tyseng92/Openpose_Cam
 ```
 
-Remember to replace the model folder with the folder in this [link](https://drive.google.com/drive/folders/14kfPgMH9M4oo1tg33tKSwrOA4uB0m_19), or you can try to download the models from this [link](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/1_prerequisites.md) under "General Tips" section. 
+Remember to replace the model folder with the folder in this [link](https://drive.google.com/drive/folders/14kfPgMH9M4oo1tg33tKSwrOA4uB0m_19), or you can try to download the models manually from this [readme](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/1_prerequisites.md) under "General Tips" section. 
 
 ## Run the code
 
