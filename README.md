@@ -14,7 +14,7 @@ For more information on the Ubuntu Prerequisites, here is the [readme](https://g
 
 ## Installation
 
-Please check out the [blog]() for more information on the installation steps.
+Please check out the [blog](https://tyseng.medium.com/openpose-python-in-ubuntu-18-04-installation-guide-2021-5c09f4f2efe2) for more information on the installation steps.
 
 Then, in your terminal, git clone this repo using the below command:
 
