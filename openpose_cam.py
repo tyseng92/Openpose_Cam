@@ -19,6 +19,8 @@ class Detector():
         cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
         self.cap = cap 
 
+        # Please refer to this link(https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/01_demo.md)
+        # under the "Main Flags" section to adjust the flags parameters.
         params = dict()
         params["model_folder"] = "models/"
         params["face"] = FLAGS.face
