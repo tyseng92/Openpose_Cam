@@ -23,9 +23,11 @@ git clone https://github.com/tyseng92/Openpose_Cam
 Remember to replace the model folder with the folder in this [link](https://drive.google.com/drive/folders/14kfPgMH9M4oo1tg33tKSwrOA4uB0m_19).
 
 ## Reference
-*[1] https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/03_python_api.md
-*[2] https://medium.com/@erica.z.zheng/installing-openpose-on-ubuntu-18-04-cuda-10-ebb371cf3442
-*[3] https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c
+[1] https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/03_python_api.md
+
+[2] https://medium.com/@erica.z.zheng/installing-openpose-on-ubuntu-18-04-cuda-10-ebb371cf3442
+
+[3] https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c
 
 
  
