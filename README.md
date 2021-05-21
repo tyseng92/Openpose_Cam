@@ -22,7 +22,7 @@ Then, in your terminal, git clone this repo using the below command:
 git clone https://github.com/tyseng92/Openpose_Cam
 ```
 
-Remember to replace the model folder with the folder in this [link](https://drive.google.com/drive/folders/14kfPgMH9M4oo1tg33tKSwrOA4uB0m_19).
+Remember to replace the model folder with the folder in this [link](https://drive.google.com/drive/folders/14kfPgMH9M4oo1tg33tKSwrOA4uB0m_19), or you can try to download the models from this [link](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/1_prerequisites.md) under "General Tips" section. 
 
 ## Run the code
 
