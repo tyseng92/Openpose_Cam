@@ -22,6 +22,18 @@ git clone https://github.com/tyseng92/Openpose_Cam
 
 Remember to replace the model folder with the folder in this [link](https://drive.google.com/drive/folders/14kfPgMH9M4oo1tg33tKSwrOA4uB0m_19).
 
+## Run the code
+
+To use the real time pose estimation on webcam, in terminal run the below command:
+```bash
+# Detect only human body posture
+python3 openpose_cam.py 
+
+# Detect human body posture with hand and face.
+python3 openpose_cam.py --face True --hand True
+```
+
+
 ## Reference
 [1] https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/03_python_api.md
 
